@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
+	"test": "echo 'No tests yet'",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
