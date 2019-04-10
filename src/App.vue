@@ -1,8 +1,8 @@
 <template>
   <v-app>
-    <v-toolbar app>
+    <v-toolbar id="toolbar" app>
       <v-toolbar-title class="headline text-uppercase">
-        <span>etopiei's website</span>
+        <span>etopiei</span>
       </v-toolbar-title>
     </v-toolbar>
     <v-content>
@@ -26,3 +26,9 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+#toolbar {
+  background-color: #86c200;
+}
+</style>
