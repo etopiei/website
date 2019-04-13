@@ -1,5 +1,9 @@
 # website
 
+This is the code for my personal website which is hosted on Amazon S3 and utilises CloudFront for caching and distribution
+
+![Build Status](https://travis-ci.com/etopiei/website.svg?token=kpc4ax9EroRr6c3UyzRt&branch=master)
+
 ## Project setup
 ```
 npm install
@@ -24,6 +28,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

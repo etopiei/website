@@ -29,6 +29,6 @@ export default {
 
 <style scoped>
 #toolbar {
-  background-color: #86c200;
+  background-color: #91d4ff;
 }
 </style>
