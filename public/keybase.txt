@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/etopiei
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://etopiei.com
+  * I am etopiei (https://keybase.io/etopiei) on keybase.
+  * I have a public key ASDeSrPFhOCYzLYLEU-ttu3fDHhSB5x_s3MkHoj3wu_Pbgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120de4ab3c584e098ccb60b114fadb6eddf0c7852079c7fb373241e88f7c2efcf6e0a",
+      "host": "keybase.io",
+      "kid": "0120de4ab3c584e098ccb60b114fadb6eddf0c7852079c7fb373241e88f7c2efcf6e0a",
+      "uid": "a7e80b77bdb381d978313c154cca6119",
+      "username": "etopiei"
+    },
+    "merkle_root": {
+      "ctime": 1556968569,
+      "hash": "8e442276cb72275667c5350510d8ac34471285e9cc9900c285a0cb088a74f06ac68aca8f8ecfcf3e82bfb54933796361c15363c49d3995b2143c928a000585cd",
+      "hash_meta": "54aeec7bc9fb19776e282384f47f24c253cd0ba63dcf9ca034657b91a62b3c34",
+      "seqno": 5295444
+    },
+    "service": {
+      "entropy": "/799mJXBp5oRHpnSR94WObyq",
+      "hostname": "etopiei.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1556968622,
+  "expire_in": 504576000,
+  "prev": "40142d13ea74e2bcb0b30b601d97e46533c2e1528252c9fd864fc558dcea5b6f",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3kqzxYTgmMy2CxFPrbbt3wx4Ugecf7NzJB6I98Lvz24Kp3BheWxvYWTESpcCDsQgQBQtE+p04rywswtgHZfkZTPC4VKCUsn9hk/FWNzqW2/EII7ewwA6yO/nVDi4mbQabxb2nDMyTHE33iaUEda7E2jUAgHCo3NpZ8RAsFJhc1iUivUba0ANOsLkq7uuIEE+skASH8E7PsF4oSh5TXwLraSUyqd5RevxWazYH+jMhqchF8XaSCY02uc6DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKzI75WqwGVW9JSe3rF+SYg2ZYC6FbtDDaf4+ITwttf5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/etopiei
+
+==================================================================

@@ -42,6 +42,12 @@
         </div>
       </v-flex>
       <v-flex mb-4>
+        <h2> More About Me </h2>
+        <p>I am passionate about open source, privacy and about learning as much as I can.
+          When I'm not working on software I might be found playing guitar, running, playing chess or writing my blog.
+        </p>
+      </v-flex>
+      <v-flex mb-4>
         <h2> Contact Me </h2>
         <span>Twitter: @etopiei</span><br>
         <span>Email: me.etopiei@gmail.com</span>
