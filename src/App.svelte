@@ -51,15 +51,18 @@
 	<li><a href="https://github.com/etopiei/lumino" class="no-indent">Lumino</a> - A hackathon project to make Public Transport trips safer.</li>
 	<li><a href="https://github.com/etopiei/DSPM" class="no-indent">DSPM</a> (Dead Simple Password Manager) - A python CLI app to manage and generate passwords.</li>
 	<h4 class="no-indent">Coming Soon or WIP</h4>
+	<li><a href="https://zappcast.com" class="no-indent">ZappCast</a> - A programming podcast hosted by myself and a few friends.</li>
 	<li><a class="no-indent" href="https://github.com/etopiei/kayo/">Kayo App</a> - Desktop app for watching sport with Kayo.</li>
 	<li>Open Chess Browser - A chess game explorer built with Rust and Neo4j (Coming Soon) </li>
 </ul>
 
 <h3>Work</h3>
-<p>Below is a list of current work I am doing, as well as some of the technolgies I use in these jobs. Check out my <a class="no-indent" href="https://www.linkedin.com/in/lachlan-jacob-a14895117/">LinkedIn</a> for a more in depth view of my work exerience, education etc.</p>
+<p>Below is a list of current work I am doing,
+ as well as some of the technolgies I use in these jobs.
+ <br> Check out my <a class="no-indent" href="https://www.linkedin.com/in/lachlan-jacob-a14895117/">LinkedIn</a> for a more in depth view of my work exerience, education etc.</p>
 <ul class="no-indent">
 	<h4 class="no-indent">National Australia Bank</h4>
-		<li> Intern Software Engineer - January 2019 -> Present</li>
+		<li> Software Engineer - January 2019 -> Present</li>
 		<li>React, Typescript, Express, Java, AWS, Docker</li>
 	<h4 class="no-indent">AI Media</h4>
 		<li>Software Developer - July 2018 -> Present</li>
