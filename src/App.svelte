@@ -8,6 +8,9 @@
 		padding-top: 4px;
 		padding-bottom: 4px;
 	}
+	.accent {
+		color: #874d97;
+	}
 	h1 {
 		color: #874d97;
 	}
@@ -68,6 +71,16 @@
 		<li>Software Developer - July 2018 -> Present</li>
 		<li>PHP, Vue, MYSQL, Python, Linux Admin, AWS, cPanel</li>
 </ul>
+
+<h3>Contact Me</h3>
+<p>I can be reached in a number of ways, my favourites of which are listed below:</p>
+<ul>
+	<li class="no-indent"><span class="accent no-indent">@etopiei</span> on twitter</li>
+	<li class="no-indent">email <span class="accent no-indent">etopiei@tech.melbourne</span></li>
+	<li class="no-indent">email <span class="accent no-indent">me.etopiei@gmail.com</span></li><br>
+	<li class="no-indent">or feel free to reach out on LinkedIn (linked above)</li>
+</ul>
+
 
 <footer class="no-indent">
 <span>© Copyright 2019 - etopiei</span>
