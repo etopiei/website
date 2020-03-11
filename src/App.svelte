@@ -70,7 +70,7 @@
 	<h4 class="no-indent">Coming Soon or WIP</h4>
 	<li><a href="https://zappcast.com" class="no-indent">ZappCast</a> - A programming podcast hosted by myself and a few friends.</li>
 	<li><a class="no-indent" href="https://github.com/etopiei/kayo/">Kayo App</a> - Desktop app for watching sport with Kayo.</li>
-	<li>Open Chess Browser - A chess game explorer built with Rust and Neo4j (Coming Soon) </li>
+	<li><a class="no-indent" href="https://github.com/etopiei/OCB">Open Chess Browser</a> - A chess game explorer built with Rust, WASM and Neo4j</li>
 </ul>
 
 <h3>Work</h3>
