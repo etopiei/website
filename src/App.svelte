@@ -45,6 +45,9 @@
 		float: left;
 		margin-right: 16px;
 	}
+	.htb {
+		float: none;
+	}
 	.job-break {
 		margin-top: 16px;
 		margin-bottom: 16px;
@@ -55,12 +58,14 @@
 <h1>{name}</h1>
 
 <p>My name is really Lachlan Jacob, or as many know me: LJ. </p>
-<p>This website is going to be a place for me to showcase some of my work, I was going to spend a long time redo-ing this website and fully kitting it out with as many npm modules as I could cram in, but instead I've opted for a more basic approach, which will allow me to focus on working on exciting projects. </p>
+<p>This website is going to be a place for me to showcase some of my projects and a little bit about me. Enjoy! </p>
+<p>To read my thoughts on various topics check out my <a href="https://blog.etopiei.com" class="no-indent">blog</a>. For info on what I've built either myself or with others, read on.</p>
 
 <h3 class="squash">Projects</h3>
 <a href="https://github.com/etopiei">View Code on GitHub</a>
 <ul class="no-indent">
 	<h4 class="no-indent">Completed</h4>
+	<li><a href="https://parrotparty.live" class="no-indent">Parrot Party</a> - A p2p video player to watch videos with friends.</li>
 	<li><a href="https://github.com/etopiei/QWOP-Bot" class="no-indent">QWOP Bot</a> - A genetic algorithm that learns to play QWOP, powered by websockets and python.</li>
 	<li><a href="https://github.com/etopiei/mockapi-cli" class="no-indent">Mockapi CLI</a> - A command line utility to develop mock services quickly </li>
 	<li><a href="https://github.com/etopiei/blog" class="no-indent">Blog</a> - The software to run my <a href="https://blog.etopiei.com" class="no-indent">blog.</a></li>
@@ -71,7 +76,14 @@
 	<li><a href="https://zappcast.com" class="no-indent">ZappCast</a> - A programming podcast hosted by myself and a few friends.</li>
 	<li><a class="no-indent" href="https://github.com/etopiei/kayo/">Kayo App</a> - Desktop app for watching sport with Kayo.</li>
 	<li><a class="no-indent" href="https://github.com/etopiei/OCB">Open Chess Browser</a> - A chess game explorer built with Rust, WASM and Neo4j</li>
+	<li>Journal Analysis - An app to analyse journal entries for key themes, sentiment over time and more. (Read my blog post about it <a href="https://blog.etopiei.com/post/37" class="no-indent">here</a>)</li>
 </ul>
+
+<h3>Experience/Skills</h3>
+<p>I enjoy doing HackTheBox in my free time, my profile is shown below:</p>
+<img class="htb" src="http://www.hackthebox.eu/badge/image/76955" alt="Hack The Box"><br>
+<p>I also am working my way through LeetCode's problems. (<a href="https://leetcode.com/etopiei/" class="no-indent">Profile Link</a>)</p>
+<p>On the non-technical side I quite enjoy writing music so you can check out my soundcloud <a href="https://soundcloud.com/lj343" class="no-indent">here.</a></p>
 
 <h3>Work</h3>
 <p>Below is a list of current work I am doing,
