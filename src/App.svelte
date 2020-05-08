@@ -73,6 +73,7 @@
 	<li><a href="https://github.com/etopiei/lumino" class="no-indent">Lumino</a> - A hackathon project to make Public Transport trips safer.</li>
 	<li><a href="https://github.com/etopiei/DSPM" class="no-indent">DSPM</a> (Dead Simple Password Manager) - A python CLI app to manage and generate passwords.</li>
 	<h4 class="no-indent">Coming Soon or WIP</h4>
+	<li>ChessRun - A web extension + native app combo for automatically managed chess speedruns (Coming Very Soon)</li>
 	<li><a href="https://zappcast.com" class="no-indent">ZappCast</a> - A programming podcast hosted by myself and a few friends.</li>
 	<li><a class="no-indent" href="https://github.com/etopiei/kayo/">Kayo App</a> - Desktop app for watching sport with Kayo.</li>
 	<li><a class="no-indent" href="https://github.com/etopiei/OCB">Open Chess Browser</a> - A chess game explorer built with Rust, WASM and Neo4j</li>
