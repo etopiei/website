@@ -81,10 +81,13 @@
 </ul>
 
 <h3>Experience/Skills</h3>
-<p>I enjoy doing HackTheBox in my free time, my profile is shown below:</p>
+<p>I enjoy doing HackTheBox and CTFs in my free time, my profile is shown below:</p>
 <img class="htb" src="http://www.hackthebox.eu/badge/image/76955" alt="Hack The Box"><br>
-<p>I also am working my way through LeetCode's problems. (<a href="https://leetcode.com/etopiei/" class="no-indent">Profile Link</a>)</p>
-<p>On the non-technical side I quite enjoy writing music so you can check out my soundcloud <a href="https://soundcloud.com/lj343" class="no-indent">here.</a></p>
+<a href="https://ctftime.org/user/84432">CTF Time Profile</a>
+<p>I also am working my way through LeetCode's problems. (<a href="https://leetcode.com/etopiei/" class="no-indent">Profile Link</a>)
+</p>
+<p>On the non-technical side I enjoy playing and/or streaming chess (<a class="no-indent" href="https://www.twitch.tv/etopiei">twitch</a>, <a class="no-indent" href="https://www.youtube.com/channel/UCrpR5vV2xwLYoIAKF_rpAoQ">youtube</a>, <a class="no-indent" href="https://lichess.org/@/etopiei">lichess</a>)<br><br>
+I  also quite enjoy writing music so you can check out my <a href="https://soundcloud.com/lj343" class="no-indent">soundcloud</a> to listen.</p>
 
 <h3>Work</h3>
 <p>Below is a list of current work I am doing,
@@ -106,9 +109,8 @@
 <p>I can be reached in a number of ways, my favourites of which are listed below:</p>
 <ul>
 	<li class="no-indent"><a href="https://twitter.com/etopiei" class="no-indent">@etopiei</a> on twitter</li>
-	<li class="no-indent">email <a href="mailto:etopiei@tech.melbourne" class="no-indent">etopiei@tech.melbourne</a></li>
 	<li class="no-indent">email <a href="mailto:me.etopiei@gmail.com" class="no-indent">me.etopiei@gmail.com</a></li><br>
-	<li class="no-indent">or feel free to reach out on LinkedIn (linked above)</li>
+	<li class="no-indent">or feel free to reach out on <a class="no-indent" href="https://www.linkedin.com/in/lachlan-jacob-a14895117/">LinkedIn</a></li>
 </ul>
 
 
