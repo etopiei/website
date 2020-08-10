@@ -65,6 +65,8 @@
 <a href="https://github.com/etopiei">View Code on GitHub</a>
 <ul class="no-indent">
 	<h4 class="no-indent">Completed</h4>
+	<li><a href="https://github.com/etopiei/up-cli" class="no-indent">Up Banking CLI</a> - A CLI tool to check your Up banking account and recent transactions, written in Rust.</li>
+	<li><a href="https://chessrun.net" class="no-indent">ChessRun</a> - A web extension + native app combo for automatically managed chess speedruns (view code for <a href="https://github.com/etopiei/chessrunsite" class="no-indent">website</a>, <a href="https://github.com/etopiei/chessrun" class="no-indent">app</a> and <a href="https://github.com/etopiei/chessrunext" class="no-indent"> web extension</a> by clicking these links)</li>
 	<li><a href="https://parrotparty.live" class="no-indent">Parrot Party</a> - A p2p video player to watch videos with friends.</li>
 	<li><a href="https://github.com/etopiei/QWOP-Bot" class="no-indent">QWOP Bot</a> - A genetic algorithm that learns to play QWOP, powered by websockets and python.</li>
 	<li><a href="https://github.com/etopiei/mockapi-cli" class="no-indent">Mockapi CLI</a> - A command line utility to develop mock services quickly </li>
@@ -73,20 +75,20 @@
 	<li><a href="https://github.com/etopiei/lumino" class="no-indent">Lumino</a> - A hackathon project to make Public Transport trips safer.</li>
 	<li><a href="https://github.com/etopiei/DSPM" class="no-indent">DSPM</a> (Dead Simple Password Manager) - A python CLI app to manage and generate passwords.</li>
 	<h4 class="no-indent">Coming Soon or WIP</h4>
-	<li>ChessRun - A web extension + native app combo for automatically managed chess speedruns (Coming Very Soon)</li>
 	<li><a href="https://zappcast.com" class="no-indent">ZappCast</a> - A programming podcast hosted by myself and a few friends.</li>
 	<li><a class="no-indent" href="https://github.com/etopiei/kayo/">Kayo App</a> - Desktop app for watching sport with Kayo.</li>
 	<li><a class="no-indent" href="https://github.com/etopiei/OCB">Open Chess Browser</a> - A chess game explorer built with Rust, WASM and Neo4j</li>
 	<li>Journal Analysis - An app to analyse journal entries for key themes, sentiment over time and more. (Read my blog post about it <a href="https://blog.etopiei.com/post/37" class="no-indent">here</a>)</li>
+	<li>Gemini Server - A bare bones server for the gemini protocol.</li>
 </ul>
 
 <h3>Experience/Skills</h3>
-<p>I enjoy doing HackTheBox and CTFs in my free time, my profile is shown below:</p>
+<p>I enjoy doing HackTheBox and CTFs in my free time, my profiles are shown below:</p>
 <img class="htb" src="http://www.hackthebox.eu/badge/image/76955" alt="Hack The Box"><br>
 <a href="https://ctftime.org/user/84432">CTF Time Profile</a>
 <p>I also am working my way through LeetCode's problems. (<a href="https://leetcode.com/etopiei/" class="no-indent">Profile Link</a>)
 </p>
-<p>On the non-technical side I enjoy playing and/or streaming chess (<a class="no-indent" href="https://www.twitch.tv/etopiei">twitch</a>, <a class="no-indent" href="https://www.youtube.com/channel/UCrpR5vV2xwLYoIAKF_rpAoQ">youtube</a>, <a class="no-indent" href="https://lichess.org/@/etopiei">lichess</a>)<br><br>
+<p>On the non-technical side I enjoy playing and/or streaming chess and ocassionally gaming. (<a class="no-indent" href="https://www.twitch.tv/etopiei">twitch</a>, <a class="no-indent" href="https://www.youtube.com/channel/UCrpR5vV2xwLYoIAKF_rpAoQ">youtube</a>, <a class="no-indent" href="https://lichess.org/@/etopiei">lichess</a>)<br><br>
 I  also quite enjoy writing music so you can check out my <a href="https://soundcloud.com/lj343" class="no-indent">soundcloud</a> to listen.</p>
 
 <h3>Work</h3>
