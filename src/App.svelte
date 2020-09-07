@@ -15,6 +15,9 @@
 		color: #b7b7b7;
 		margin: 0;
 	}
+	img {
+		width: 100px;
+	}
 	h1 {
 		color: #874d97;
 	}
@@ -96,14 +99,19 @@ I  also quite enjoy writing music so you can check out my <a href="https://sound
  as well as some of the technolgies I use in these jobs.
  <br> Check out my <a class="no-indent" href="https://www.linkedin.com/in/lachlan-jacob-a14895117/">LinkedIn</a> for a more in depth view of my work exerience, education etc.</p>
 <ul class="no-indent">
+	<img src="./wsp.png" alt="WSP">
+	<h4 class="no-indent">WSP Digital</h4><br>
+		<li>Junior Developer - September 2020 -> Present</li>
+		<li>React, Gatsby</li>
+	<div class="job-break"></div>
 	<img src="./nab.png" alt="NAB">
 	<h4 class="no-indent">National Australia Bank</h4><br>
-		<li> Software Engineer - January 2019 -> Present</li>
+		<li> Software Engineer - January 2019 -> September 2020</li>
 		<li>React, Typescript, Express, Java, AWS, Docker</li>
 	<div class="job-break"></div>
 	<img src="./ai.png" alt="AI Media">
 	<h4 class="no-indent">AI Media</h4><br>
-		<li>Software Developer - July 2018 -> Present</li>
+		<li>Software Developer - July 2018 -> January 2020</li>
 		<li>PHP, Vue, MYSQL, Python, Linux Admin, AWS, cPanel</li>
 </ul>
 
