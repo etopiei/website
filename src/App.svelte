@@ -48,9 +48,6 @@
 		float: left;
 		margin-right: 16px;
 	}
-	.htb {
-		float: none;
-	}
 	.job-break {
 		margin-top: 16px;
 		margin-bottom: 16px;
@@ -87,12 +84,12 @@
 
 <h3>Experience/Skills</h3>
 <p>I enjoy doing HackTheBox and CTFs in my free time, my profiles are shown below:</p>
-<img class="htb" src="http://www.hackthebox.eu/badge/image/76955" alt="Hack The Box"><br>
+<a href="https://app.hackthebox.eu/profile/76955">HackTheBox Profile</a><br>
 <a href="https://ctftime.org/user/84432">CTF Time Profile</a>
 <p>I also am working my way through LeetCode's problems. (<a href="https://leetcode.com/etopiei/" class="no-indent">Profile Link</a>)
 </p>
 <p>On the non-technical side I enjoy playing and/or streaming chess and ocassionally gaming. (<a class="no-indent" href="https://www.twitch.tv/etopiei">twitch</a>, <a class="no-indent" href="https://www.youtube.com/channel/UCrpR5vV2xwLYoIAKF_rpAoQ">youtube</a>, <a class="no-indent" href="https://lichess.org/@/etopiei">lichess</a>)<br><br>
-I  also quite enjoy writing music so you can check out my <a href="https://soundcloud.com/lj343" class="no-indent">soundcloud</a> to listen.</p>
+I  also quite enjoy writing music so you can check out my music on: <a href="https://open.spotify.com/artist/7xEqtE1WYH2QhbQZlOJOjE?si=_4iuyGNmRn6TiTj0b1tOsg" class="no-indent">Spotify</a> or <a href="https://music.apple.com/us/artist/lachlan-jacob/1530208908" class="no-indent">Apple Music</a>.</p>
 
 <h3>Work</h3>
 <p>Below is a list of current work I am doing,
@@ -102,7 +99,7 @@ I  also quite enjoy writing music so you can check out my <a href="https://sound
 	<img src="./wsp.png" alt="WSP">
 	<h4 class="no-indent">WSP Digital</h4><br>
 		<li>Junior Developer - September 2020 -> Present</li>
-		<li>React, Gatsby</li>
+		<li>React, Gatsby, Django, Vue</li>
 	<div class="job-break"></div>
 	<img src="./nab.png" alt="NAB">
 	<h4 class="no-indent">National Australia Bank</h4><br>
