@@ -66,7 +66,7 @@
 <ul class="no-indent">
 	<h4 class="no-indent">Completed</h4>
 	<li><a href="https://github.com/etopiei/up-cli" class="no-indent">Up Banking CLI</a> - A CLI tool to check your Up banking account and recent transactions, written in Rust.</li>
-	<li><a href="https://etopiei.github.io/livery-f1-2023/" class="no-indent">F1 Livery Compare</a> - A quick little website to compare F1 liveries between the 2022 and 2023 seasons. (<a href="https://github.com/etopiei/livery-f1-2023/">code here</a>)</li>
+	<li><a href="https://etopiei.github.io/livery-f1-2023/" class="no-indent">F1 Livery Compare</a> - A quick little website to compare F1 liveries between the 2022 and 2023 seasons. (<a class="no-indent" href="https://github.com/etopiei/livery-f1-2023/">code here</a>)</li>
 	<li><a href="https://chessrun.net" class="no-indent">ChessRun</a> - A web extension + native app combo for automatically managed chess speedruns (view code for <a href="https://github.com/etopiei/chessrunsite" class="no-indent">website</a>, <a href="https://github.com/etopiei/chessrun" class="no-indent">app</a> and <a href="https://github.com/etopiei/chessrunext" class="no-indent"> web extension</a> by clicking these links)</li>
 	<li><a href="https://hinge.etopiei.com" class="no-indent">Hinge Data Explorer</a> - A mini webapp to explore data from the Hinge dating app. (<a href="https://github.com/etopiei/hinge_data" class="no-indent">Code here</a>)</li>
 	<li><a href="https://parrotparty.live" class="no-indent">Parrot Party</a> - A p2p video player to watch videos with friends.</li>
@@ -100,7 +100,7 @@ I also quite enjoy writing music so you can check out my music on: <a href="http
 <ul class="no-indent">
 	<img src="./wsp.png" alt="WSP">
 	<h4 class="no-indent">WSP Digital</h4><br>
-		<li>Junior Developer - September 2020 -> Present</li>
+		<li>Software Engineer - September 2020 -> Present</li>
 		<li>Django, Vue, React, Gatsby</li>
 	<div class="job-break"></div>
 	<img src="./nab.png" alt="NAB">
