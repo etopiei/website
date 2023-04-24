@@ -2,58 +2,6 @@
 	export let name;
 </script>
 
-<style>
-	* {
-		margin-left: 2rem;
-		padding-top: 4px;
-		padding-bottom: 4px;
-	}
-
-	main {
-		background-color:#111111e6;
-		font-size: 1.4rem;
-		color: #b7b7b7;
-		margin: 0;
-	}
-	img {
-		width: 100px;
-	}
-	h1 {
-		color: #874d97;
-	}
-	p {
-		max-width: 800px;
-		width: calc(100% - 4rem);
-	}
-	.no-indent {
-		margin-left: 0rem;
-	}
-	.squash {
-		padding: 0;
-	}
-	footer {
-		margin-top: 2rem;
-		border-top: solid 1px #e1e1e1;
-		border-bottom: solid 1px #e1e1e1;
-		padding-top: 8px;
-		padding-bottom: 8px;
-	}
-	li {
-		list-style: none;
-	}
-	h3 {
-		color: #874d97;
-	}
-	img {
-		float: left;
-		margin-right: 16px;
-	}
-	.job-break {
-		margin-top: 16px;
-		margin-bottom: 16px;
-	}
-</style>
-
 <main>
 <h1>{name}</h1>
 
@@ -66,6 +14,7 @@
 <ul class="no-indent">
 	<h4 class="no-indent">Completed</h4>
 	<li><a href="https://github.com/etopiei/up-cli" class="no-indent">Up Banking CLI</a> - A CLI tool to check your Up banking account and recent transactions, written in Rust.</li>
+	<li><a href="https://github.com/etopiei/gemini_server" class="no-indent">Gemini Server</a> - A simple gemini server written in Gleam.</li>
 	<li><a href="https://etopiei.github.io/livery-f1-2023/" class="no-indent">F1 Livery Compare</a> - A quick little website to compare F1 liveries between the 2022 and 2023 seasons. (<a class="no-indent" href="https://github.com/etopiei/livery-f1-2023/">code here</a>)</li>
 	<li><a href="https://chessrun.net" class="no-indent">ChessRun</a> - A web extension + native app combo for automatically managed chess speedruns (view code for <a href="https://github.com/etopiei/chessrunsite" class="no-indent">website</a>, <a href="https://github.com/etopiei/chessrun" class="no-indent">app</a> and <a href="https://github.com/etopiei/chessrunext" class="no-indent"> web extension</a> by clicking these links)</li>
 	<li><a href="https://hinge.etopiei.com" class="no-indent">Hinge Data Explorer</a> - A mini webapp to explore data from the Hinge dating app. (<a href="https://github.com/etopiei/hinge_data" class="no-indent">Code here</a>)</li>
@@ -127,3 +76,55 @@ I also quite enjoy writing music so you can check out my music on: <a href="http
 <span>© Copyright 2021 - etopiei</span>
 </footer>
 </main>
+
+<style>
+	* {
+		margin-left: 2rem;
+		padding-top: 4px;
+		padding-bottom: 4px;
+	}
+
+	main {
+		background-color:#111111e6;
+		font-size: 1.4rem;
+		color: #b7b7b7;
+		margin: 0;
+	}
+	img {
+		width: 100px;
+	}
+	h1 {
+		color: #874d97;
+	}
+	p {
+		max-width: 800px;
+		width: calc(100% - 4rem);
+	}
+	.no-indent {
+		margin-left: 0rem;
+	}
+	.squash {
+		padding: 0;
+	}
+	footer {
+		margin-top: 2rem;
+		border-top: solid 1px #e1e1e1;
+		border-bottom: solid 1px #e1e1e1;
+		padding-top: 8px;
+		padding-bottom: 8px;
+	}
+	li {
+		list-style: none;
+	}
+	h3 {
+		color: #874d97;
+	}
+	img {
+		float: left;
+		margin-right: 16px;
+	}
+	.job-break {
+		margin-top: 16px;
+		margin-bottom: 16px;
+	}
+</style>
