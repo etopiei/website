@@ -70,11 +70,6 @@ I also quite enjoy writing music so you can check out my music on: <a href="http
 	<li class="no-indent">email <a href="mailto:me.etopiei@gmail.com" class="no-indent">me.etopiei@gmail.com</a></li><br>
 	<li class="no-indent">or feel free to reach out on <a class="no-indent" href="https://www.linkedin.com/in/lachlan-jacob-a14895117/">LinkedIn</a></li>
 </ul>
-
-
-<footer class="no-indent">
-<span>© Copyright 2021 - etopiei</span>
-</footer>
 </main>
 
 <style>
@@ -105,13 +100,6 @@ I also quite enjoy writing music so you can check out my music on: <a href="http
 	}
 	.squash {
 		padding: 0;
-	}
-	footer {
-		margin-top: 2rem;
-		border-top: solid 1px #e1e1e1;
-		border-bottom: solid 1px #e1e1e1;
-		padding-top: 8px;
-		padding-bottom: 8px;
 	}
 	li {
 		list-style: none;
