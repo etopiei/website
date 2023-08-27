@@ -17,6 +17,17 @@ export const projectData = [
         mainLink: "https://github.com/etopiei/type-inference",
     },
     {
+        name: "Peg Soliatire Solver",
+        description: "A solver I wrote for Peg solitaire as well as code to make an animation of a game.",
+        mainLink: "https://github.com/etopiei/peg-solitaire",
+        extraLinks: [
+            {
+                text: "Video of solved game",
+                link: "https://youtu.be/xN28KUunDXk",
+            }
+        ]
+    },
+    {
         name: "F1 Livery Compare",
         description:
             "A quick little website to compare F1 liveries between the 2022 and 2023 seasons.",
