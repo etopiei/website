@@ -17,6 +17,11 @@ export const projectData = [
         mainLink: "https://github.com/etopiei/type-inference",
     },
     {
+        name: "Cactus",
+        description: "A chess engine written in Go.",
+        mainLink: "https://github.com/etopiei/cactus"
+    },
+    {
         name: "Peg Soliatire Solver",
         description: "A solver I wrote for Peg solitaire as well as code to make an animation of a game.",
         mainLink: "https://github.com/etopiei/peg-solitaire",
