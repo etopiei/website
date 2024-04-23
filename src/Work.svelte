@@ -14,6 +14,9 @@
 <div class="job-break" />
 
 <style>
+	h4 {
+		height: 2em;
+	}
 	.job-break {
 		margin-top: 16px;
 		margin-bottom: 16px;

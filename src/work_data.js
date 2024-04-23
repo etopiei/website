@@ -1,9 +1,15 @@
-export const workData = [
+export const workData = [{
+        logoPath: "./disco.jpg",
+        name: "DISCO",
+        title: "Backend Engineer",
+        timeString: "November 2023 -> Present",
+        technologies: "Django, DRF, Docker, AWS",
+    },
     {
         logoPath: "./wsp.png",
         name: "WSP Digital",
         title: "Software Engineer",
-        timeString: "September 2020 -> Present",
+        timeString: "September 2020 -> October 2023",
         technologies: "Django, Postgres, Docker, Vue, AWS, React, Gatsby",
     },
     {
