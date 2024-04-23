@@ -33,6 +33,17 @@ export const projectData = [
         ]
     },
     {
+        name: "Hottest 100 Data",
+        description: "A small site with some cool graphs looking at triple-j hottest 100 data over the years.",
+        mainLink: "https://hottest100.etopiei.com/",
+        extraLinks: [
+            {
+                text: "Code",
+                link: "https://github.com/etopiei/hottest-100/",
+            }
+        ]
+    },
+    {
         name: "F1 Livery Compare",
         description:
             "A quick little website to compare F1 liveries between the 2022 and 2023 seasons.",
