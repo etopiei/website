@@ -71,6 +71,22 @@ export const projectData = [
         ]
     },
     {
+        name: "SneezeBot",
+        description: "A slack app to count sneezes and blesses in the office",
+        mainLink: "https://youtu.be/52UdeHX2QuU",
+        extraLinks: [
+            {
+                text: "blog post",
+                link: "https://blog.etopiei.com/post/55"
+            }
+        ]
+    },
+    {
+        name: "Eloji",
+        description: "A site to rank custom Slack emoji.",
+        mainLink: "https://blog.etopiei.com/post/55"
+    },
+    {
         name: "ChessRun",
         description: "A web extension + native app combo for automatically managed chess speedruns",
         mainLink: "https://chessrun.net",
