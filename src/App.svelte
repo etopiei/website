@@ -79,20 +79,23 @@
 			class="no-indent"
 			href="https://lichess.org/@/etopiei">lichess</a
 		>,
+		<a class="no-indent"
+			href="https://www.chess.com/member/etopiei"
+			>chess.com</a>, 
 		<a
 			class="no-indent"
 			href="https://www.chessmonitor.com/u/ZkQa8N01WyDmxpUSkPpx"
 			>chess monitor</a
 		>)<br />
-		and streaming my speedrunning (<a
-			class="no-indent"
-			href="https://www.twitch.tv/etopiei">twitch</a
-		>,
-		<a
+		and riding my bike which you can see on
+		<a class="no-indent"
+			href="https://www.strava.com/athletes/19228849"
+			>strava</a>, 
+		and <a
 			class="no-indent"
 			href="https://www.youtube.com/channel/UCrpR5vV2xwLYoIAKF_rpAoQ"
 			>youtube</a
-		>)<br /><br />
+		><br /><br />
 		I also quite enjoy writing music so you can check out my music on:
 		<a
 			href="https://open.spotify.com/artist/7xEqtE1WYH2QhbQZlOJOjE?si=_4iuyGNmRn6TiTj0b1tOsg"
