@@ -44,6 +44,17 @@ export const projectData = [
         ]
     },
     {
+        name: "Braintest",
+        description: "A small python package to run python unit tests while also writing brainf*ck programs.",
+        mainLink: "https://pypi.org/project/braintest/0.0.1/",
+        extraLinks: [
+            {
+                text: "Code",
+                link: "https://github.com/etopiei/braintest",
+            }
+        ]
+    },
+    {
         name: "F1 Livery Compare",
         description:
             "A quick little website to compare F1 liveries between the 2022 and 2023 seasons.",
