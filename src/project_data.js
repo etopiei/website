@@ -6,6 +6,17 @@ export const projectData = [
         mainLink: "https://github.com/etopiei/up-cli",
     },
     {
+        name: "Converge",
+        description: "A web app to help find the best day for an event, where the most people are free. Written in Crystal + Lucky and Typescript + Vue.",
+        mainLink: "https://converge.etopiei.net",
+        extraLinks: [
+            {
+                text: "Code",
+                link: "https://github.com/etopiei/converge",
+            }
+        ]
+    },
+    {
         name: "Gemini Server",
         description: "A simple gemini server written in Gleam.",
         mainLink: "https://github.com/etopiei/gemini_server",
