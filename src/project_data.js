@@ -33,6 +33,17 @@ export const projectData = [
         mainLink: "https://github.com/etopiei/cactus"
     },
     {
+        name: "Bagel Bites Melbourne",
+        description: "A website (and instagram account) my girlfriend and I run reviewing bagel shops in Melbourne.",
+        mainLink: "https://bagelbitesmelbourne.com",
+        extraLinks: [
+            {
+                text: "Instagram account",
+                link: "https://www.instagram.com/bagelbitesmelbourne/",
+            }
+        ]
+    },
+    {
         name: "Peg Soliatire Solver",
         description: "A solver I wrote for Peg solitaire as well as code to make an animation of a game.",
         mainLink: "https://github.com/etopiei/peg-solitaire",
