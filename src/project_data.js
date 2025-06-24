@@ -28,6 +28,17 @@ export const projectData = [
         mainLink: "https://github.com/etopiei/type-inference",
     },
     {
+        name: "Collapsi",
+        description: "An online version of a fun game created by 'Riffle Shuffle and Roll' on YouTube. Written in Elm.",
+        mainLink: "https://collapsi.etopiei.com",
+        extraLinks: [
+            {
+                text: "Code",
+                link: "https://github.com/etopiei/collapsi"
+            }
+        ]
+    },
+    {
         name: "Cactus",
         description: "A chess engine written in Go.",
         mainLink: "https://github.com/etopiei/cactus"
