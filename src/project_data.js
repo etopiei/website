@@ -133,12 +133,8 @@ export const projectData = [
     {
         name: "ChessRun",
         description: "A web extension + native app combo for automatically managed chess speedruns",
-        mainLink: "https://chessrun.net",
+        mainLink: "https://github.com/etopiei/chessrunsite",
         extraLinks: [
-            {
-                text: "code for website",
-                link: "https://github.com/etopiei/chessrunsite"
-            },
             {
                 text: "code for app",
                 link: "https://github.com/etopiei/chessrun"
