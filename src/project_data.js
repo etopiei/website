@@ -17,6 +17,17 @@ export const projectData = [
         ]
     },
     {
+        name: "BBerry Clojure",
+        description: "A web editor to write Clojure from my phone with helper buttons for editing actions not on my phones keyboard.",
+        mainLink: "https://bberry-clojure.etopiei.com/",
+        extraLinks: [
+            {
+                text: "Code",
+                link: "https://github.com/etopiei/bberry-clojure",
+            }
+        ]
+    },
+    {
         name: "Gemini Server",
         description: "A simple gemini server written in Gleam.",
         mainLink: "https://github.com/etopiei/gemini_server",
