@@ -66,6 +66,17 @@ export const projectData = [
         ]
     },
     {
+        name: "Django Admin User Favorites",
+        description: "A package for Django to allow users to pin their favorite models to the top of the admin site.",
+        mainLink: "https://pypi.org/project/django-admin-user-favorites/",
+        extraLinks: [
+            {
+                text: "Code",
+                link: "https://github.com/etopiei/django_admin_user_favorites",
+            } 
+        ]
+    },
+    {
         name: "Peg Soliatire Solver",
         description: "A solver I wrote for Peg solitaire as well as code to make an animation of a game.",
         mainLink: "https://github.com/etopiei/peg-solitaire",
