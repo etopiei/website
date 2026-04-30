@@ -55,6 +55,17 @@ export const projectData = [
         mainLink: "https://github.com/etopiei/cactus"
     },
     {
+        name: "Crossplay Dictionary Search",
+        description: "An online searcher/solver for NYT Crossplay (a word game akin to Scrabble) written in Clojure.",
+        mainLink: "https://crossplay.etopiei.com",
+        extraLinks: [
+            {
+                text: "Code",
+                link: "https://github.com/etopiei/crossplay-words",
+            }
+        ]
+    },
+    {
         name: "Bagel Bites Melbourne",
         description: "A website (and instagram account) my girlfriend and I run reviewing bagel shops in Melbourne.",
         mainLink: "https://bagelbitesmelbourne.com",
