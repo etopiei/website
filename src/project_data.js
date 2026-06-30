@@ -39,6 +39,17 @@ export const projectData = [
         mainLink: "https://github.com/etopiei/type-inference",
     },
     {
+        name: "Football World Cup Bracket (2026)",
+        description: "A mini clojure web app to render the world cup round of 32 bracket, updating regularly.",
+        mainLink: "https://wcbracket.etopiei.com",
+        extraLinks: [
+            {
+                text: "Code",
+                link: "https://github.com/etopiei/wc26-bracket"
+            }
+        ]
+    },
+    {
         name: "Collapsi",
         description: "An online version of a fun game created by 'Riffle Shuffle and Roll' on YouTube. Written in Elm.",
         mainLink: "https://collapsi.etopiei.com",
